@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Tiago!
 
-<!--
-**TiagoKennedy/TiagoKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+💻 Desenvolvendo habilidades em programação com Java  
+🚀 Buscando oportunidade de estágio em tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando:
+
+- Lógica de programação
+- programação com a linguagem java
+- Estruturas de dados para sistemas inteligentes
+
+---
+
+## 🛠️ Projetos:
+- 📌 Sistema simples em Java para manipulação de dados de alunos
+- 📌 Programa com estrutura switch para execução de tarefas
+- 📌 Exercícios práticos com operadores lógicos e matemáticos
+
+---
+
+## 📫 Contato:
+- LinkedIn: (www.linkedin.com/in/tiago-kennedy-986305313)
