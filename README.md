@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou o Tiago!
 
-🎓 Estudante de Engenharia da Computação  
-💻 Desenvolvendo habilidades em programação com Java  
-🚀 Buscando oportunidade de estágio em tecnologia  
+🎓 Estudante de Engenharia da Computação no 3°período
+💻 Desenvolvendo habilidades como desenvolvedor web e em programação com java  
+🚀 Buscando oportunidades de estágio no ramo da tecnologia  
 
 ---
 
 ## 📚 Atualmente estudando:
 
+- Desenvolvimento web
 - Lógica de programação
 - programação com a linguagem java
 - Estruturas de dados para sistemas inteligentes
