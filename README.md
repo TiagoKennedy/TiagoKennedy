@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Projetos:
-- 📌 Sistema simples em Java para manipulação de dados de alunos
+
 - 📌 Programa com estrutura switch para execução de tarefas
 - 📌 Exercícios práticos com operadores lógicos e matemáticos
 
