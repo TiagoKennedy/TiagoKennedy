@@ -2,7 +2,7 @@
 
 > 💡 Construindo uma formação sólida em Engenharia da Computação para desenvolver soluções por meio da tecnologia.
 
-## 🎓 Estudante de Engenharia da Computação (3º período)
+## 🎓 Estudante de Engenharia da Computação
 
 Sou apaixonado por tecnologia e estou construindo uma base sólida por meio da programação, do desenvolvimento de software e de projetos práticos.
 
