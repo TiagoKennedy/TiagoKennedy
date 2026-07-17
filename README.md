@@ -6,9 +6,9 @@
 
 Sou apaixonado por tecnologia e estou construindo uma base sólida por meio da programação, do desenvolvimento de software e de projetos práticos.
 
-Meu objetivo é construir uma formação sólida em Engenharia da Computação, utilizando a tecnologia para desenvolver soluções que possam ser aplicadas em diferentes contextos, como educação, saúde, meio ambiente, indústria, automação e inovação tecnológica.
+Atualmente, meu foco está no aprendizado de Java e no desenvolvimento web com HTML, CSS e JavaScript, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
 
-Acredito que a tecnologia é uma ferramenta para resolver problemas. Por isso, compartilho minha evolução acadêmica por meio dos projetos desenvolvidos durante a graduação e dos estudos realizados por iniciativa própria.
+Acredito que a tecnologia é uma ferramenta para resolver problemas e criar soluções. Por isso, compartilho minha evolução por meio dos projetos desenvolvidos durante a graduação e dos estudos realizados por iniciativa própria.
 
 ---
 
@@ -30,6 +30,7 @@ Cada projeto publicado representa uma etapa da minha evolução como estudante d
 
 ### 📂 Projetos desenvolvidos
 
+- 🧮 Calculadora básica
 - 🧮 Calculadora IMC em java
 - 📚 Exercícios e desafios em Java
 
