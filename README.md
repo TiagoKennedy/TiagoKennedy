@@ -30,7 +30,6 @@ Cada projeto publicado representa uma etapa da minha evolução como estudante d
 
 ### 📂 Projetos desenvolvidos
 
-- 🧮 Calculadora básica
 - 🧮 Calculadora IMC em java
 - 📚 Exercícios e desafios em Java
 
