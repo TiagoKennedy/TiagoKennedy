@@ -12,7 +12,7 @@ Acredito que a tecnologia é uma ferramenta para resolver problemas e criar solu
 ## 📚 Atualmente estudando
 
 - ☕ Programação com Java
-- 🌐 Desenvolvimento Web
+- 🌐 Desenvolvimento Web Front-end
 - 🧠 Lógica de Programação
 - 📚 Estruturas de Dados
 - 🏗 Engenharia de Software
