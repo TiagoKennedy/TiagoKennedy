@@ -1,12 +1,9 @@
 # 👋 Olá, eu sou o Tiago!
-
-> 💡 Construindo uma formação sólida em Engenharia da Computação para desenvolver soluções por meio da tecnologia.
-
 ## 🎓 Estudante de Engenharia da Computação
 
-Sou apaixonado por tecnologia e estou construindo uma base sólida por meio da programação, do desenvolvimento de software e de projetos práticos.
+💡 Sou apaixonado por tecnologia e estou construindo uma base sólida por meio da programação, do desenvolvimento de software e de projetos práticos.
 
-Atualmente, meu foco está no aprendizado de Java e no desenvolvimento web com HTML, CSS e JavaScript, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
+Atualmente, concentro meus estudos em desenvolvimento web (HTML, CSS e JavaScript) e na construção de uma base sólida em programação com Java, aplicando esses conhecimentos em projetos acadêmicos e pessoais.
 
 Acredito que a tecnologia é uma ferramenta para resolver problemas e criar soluções. Por isso, compartilho minha evolução por meio dos projetos desenvolvidos durante a graduação e dos estudos realizados por iniciativa própria.
 
@@ -20,7 +17,6 @@ Acredito que a tecnologia é uma ferramenta para resolver problemas e criar solu
 - 📚 Estruturas de Dados
 - 🏗 Engenharia de Software
 - 📱 Desenvolvimento Mobile
-- 🚀 Construindo uma base sólida em Engenharia da Computação
 
 ---
 
@@ -41,7 +37,7 @@ Cada projeto publicado representa uma etapa da minha evolução como estudante d
 
 - Construir uma formação sólida em Engenharia da Computação.
 - Desenvolver projetos práticos para consolidar o aprendizado.
-- Evoluir continuamente como profissional da tecnologia.
+- Evoluir continuamente ao longo da graduação, ampliando meus conhecimentos e desenvolvendo novos projetos.
 - Utilizar a tecnologia para desenvolver soluções aplicáveis a diferentes áreas da sociedade.
 - Compartilhar conhecimento e aprendizado ao longo da minha jornada.
 
